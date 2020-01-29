@@ -1,1 +1,5 @@
 azure-functions
+textblob 
+vaderSentiment
+numpy
+requests
