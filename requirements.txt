@@ -3,3 +3,4 @@ textblob
 vaderSentiment
 numpy
 requests
+google-cloud-firestore
